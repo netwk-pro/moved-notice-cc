@@ -1,0 +1,21 @@
+{
+  "name": "moved-notice",
+  "version": "0.0.2",
+  "description": "A \"moved\" notice to direct visitors to the correct URL.",
+  "keywords": ["Network", "Pro", "neteng-pro", "netwk-pro", "moved"],
+  "homepage": "https://netwk.pro",
+  "bugs": {
+    "url": "https://github.com/netwk-pro/netwk-pro.github.io/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netwk-pro/moved-notice.git"
+  },
+  "license": "CC-BY-4.0 OR GPL-3.0-or-later",
+  "author": "Scott Lopez",
+  "type": "module",
+  "main": "index.html",
+  "scripts": {
+    "test": "mocha"
+  }
+}
